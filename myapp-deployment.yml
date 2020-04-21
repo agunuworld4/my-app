@@ -27,4 +27,4 @@ spec:
   ports:
   - port: 80                                                  #default
     targetPort: 8080    #target application of the pod ap
-      nodePort: 30038
+    nodePort: 30038
