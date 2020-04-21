@@ -5,7 +5,7 @@ metadata:
   name:  myapppod        #Name is difinite
   labels:
     app: myappconnector                     #key abc app and name not difinite
-  namespace:  myppnamespace
+  namespace:  myappnamespace
 spec:
   containers:
   - name:  myappcontainer         #name of a container
