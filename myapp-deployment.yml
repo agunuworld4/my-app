@@ -26,5 +26,4 @@ spec:
      app: myappconnector                                     #this selector helps to identify the label created in the pod
   ports:
   - port: 80                                                  #default
-    targetPort: 8080    #target application of the pod app
-    nodePort: 30031
+    targetPort: 8080    #target application of the pod ap
