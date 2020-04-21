@@ -9,7 +9,7 @@ metadata:
 spec:
   containers:
   - name:  myappcontainer         #name of a container
-    image:  agunuworldm/myapp:3             #which images u want to create a container
+    image:  agunuworld/myapp            #which images u want to create a container
     ports:
     - containerPort: 8080
     
